@@ -5,6 +5,7 @@ kaut kad jauns
 Iegaju seit pildot majasdarbu 1ma reize, edit 12:31 at 20 of october
 =======
 doing a hotfix fix
+<<<<<<< HEAD
 >>>>>>> 0.1.1
 something with hotfix again
 =======
@@ -13,3 +14,6 @@ added a new file tests2
 ======
 there is a bugfix for tests2
 there is hotfix update version 0.1.2
+=======
+hotfix number 2 aboout soome things dont know what
+>>>>>>> 0.1.3
