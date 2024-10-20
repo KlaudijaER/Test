@@ -1,8 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+doing a hotfix fix
+hotfix number 2 aboout soome things dont know what
+=======
+>>>>>>> 0.1.0
 kaut kas
 izmainas uz release
 kaut kad jauns
 Iegaju seit pildot majasdarbu 1ma reize, edit 12:31 at 20 of october
+<<<<<<< HEAD
 =======
 doing a hotfix fix
 <<<<<<< HEAD
@@ -18,3 +25,6 @@ there is hotfix update version 0.1.2
 hotfix number 2 aboout soome things dont know what
 >>>>>>> 0.1.3
 there is a hotfix update
+=======
+>>>>>>> release/0.1.0
+>>>>>>> 0.1.0

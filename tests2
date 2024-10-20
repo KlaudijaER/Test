@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 added a new file with name tests2
 =======
 hotfix for tests2
@@ -9,6 +10,10 @@ hotfix thingss
 ========
 bugfix with something andding something
 if file tests there has been upadte and new version is out 0.1.3
+=======
+hotfix for tests2
+adding something
+>>>>>>> 0.1.0
 =======
 release update something
 >>>>>>> release/0.1.0
